@@ -20,7 +20,6 @@ export class TuiCalendarDefaults {
 	useDetailPopup = false;
   scheduleView = true;
   disableDblClick = false;
-  disableDblClick = false;
   isReadOnly = false;
 
   week: WeekOptions = {
